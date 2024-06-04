@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhanushi-Pemarathna.
+- 👋 Hi, I’m Dhanushi Diluka Pemarathna
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning at university of Sri Jayewardhanepura
 - 😄 I spend day with python, react, html, css, js
