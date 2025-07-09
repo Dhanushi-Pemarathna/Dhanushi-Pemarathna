@@ -3,8 +3,8 @@
 
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning at university of Sri Jayewardhanepura
-- 📝 I am learning in the Data Science field. 
-- 😄 I spend day with Python, Java, Machine Learning.
+- 📝 I am learning the Data Science field. 
+- 😄 I spend day with Python, Machine Learning, Deep learning, power BI.
 - 📫 How to reach me **dhanushidiluka22837@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
